@@ -1,0 +1,163 @@
+h2{
+    text-align: left;
+    margin-left: 4rem;
+    color: white;
+}
+span{
+    color: red;
+}
+nav ul li{
+    text-align: right;
+    display: inline-block;
+    padding: 15px;
+    margin-top: -10rem;
+}
+nav{
+    margin-left: 23rem;
+    margin-top: -1.4rem;
+}
+ul li a{
+    color: white;
+    letter-spacing: 0.1rem;
+    text-decoration: none;
+    float: right;    
+}
+ul li a:hover{
+    color: crimson;
+}
+button{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 70rem;
+    padding: 3px;
+}
+.Subcribe{
+    margin-right: 16rem;
+    margin-top: -3.1rem;
+    border: 0;
+    color: white;
+    background: crimson;
+    border-radius: 8px;
+    width: 6rem;
+    height: 1.5;
+}
+h4{
+    color: crimson;
+    margin-left: 4rem;
+    margin-top: 4rem;
+}
+h1, h5{
+    margin-left: 4rem;
+    color: white;
+}
+span{
+    color: crimson;
+}
+form{
+    padding: 35px;
+    float: center;
+    
+}
+input{
+    font-size: 25px;
+    padding: 7px;
+    border-radius: 9px;
+    margin-left: 4rem;
+}
+input[type="submit"]{
+    margin-left: -7.5rem;
+    padding: 5px;
+    border-radius: 8px;
+    background: crimson;
+    cursor: pointer;
+}
+body{
+    background-color: black;
+}
+.section1{
+    background-image: url(Layer\ 2.png);
+    height: 25rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: calc(0.7);
+}
+.section2{
+    display: flex;
+    color: white;
+    margin-top: 4rem;
+}
+.section2 .left{
+    width: 40%;
+}
+.section2 .right{
+    margin-left: 3rem;
+    width: 50%;
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+.section2 button{
+    background-color: crimson;
+    cursor: pointer;
+    color: white;
+    padding: 5px 25px;
+    border-radius: 12px;
+    border: none; 
+}
+.section2 img{
+    width: 100%;
+    height: 25rem;
+    border-radius: 50%;
+    opacity: calc(0.4);
+}
+.section3{
+    color: white;
+    display: flex;
+}
+.section3 .card{
+    background-color: rgb(20, 19, 19);
+    margin: 1rem;
+    text-align: center;
+    border-radius: 8px;
+    opacity: calc(0.7);
+}
+.section3 button{
+    background-color: crimson;
+    cursor: pointer;
+    color: white;
+    padding: 5px 25px;
+    border-radius: 12px;
+    border: none;
+    margin-bottom: 1rem;
+}
+.section4{
+    background-color: rgb(20, 19, 19);
+    height: 8rem;
+    opacity: calc(0.7);
+   text-align: center;
+   color: white;
+   justify-content: center;
+   align-items: center;
+}
+.visit{
+    padding-top: 3rem;
+}
+a .lien{
+    background-color: crimson;
+    cursor: pointer;
+    color: white;
+    padding: 5px 25px;
+    border-radius: 12px;
+    border: none;
+    padding-bottom: -5rem;
+    text-decoration: none;
+}
+footer .info{
+    text-align: center;
+}
+i{
+    color: crimson;
+    font-size: 2rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
